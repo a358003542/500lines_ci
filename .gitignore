@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+test_repo/
+test_repo_clone_obs/
+test_repo_clone_runner/
+results
+*.log
+test_results/
+.idea/
